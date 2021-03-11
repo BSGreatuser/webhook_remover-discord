@@ -1,2 +1,1 @@
-# webhook_remover-discord
-웹훅 삭제 봇
+- 웹훅 삭제 봇
